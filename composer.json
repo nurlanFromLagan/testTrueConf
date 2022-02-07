@@ -1,0 +1,9 @@
+{
+    "name": "trueconf/userapi",
+    "description": "User CRUD Web Application",
+    "require": {
+        "bramus/router": "^1.6",
+        "ext-json": "*",
+        "php": ">=8.0.3"
+    }
+}
